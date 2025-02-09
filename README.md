@@ -3,7 +3,7 @@
 Travel is a fully responsive Bootstrap website template, responsive for all devices, built using HTML, CSS and Bootstrap 5
 <br />
 <br />
-<a href="https://ahmedabdalalim-3a.github.io/Travel/"><strong>➥ Live Demo</strong></a>
+<a href="https://ahmed-abd-alalim.github.io/Travel/"><strong>➥ Live Demo</strong></a>
 <br />
 <br />
 </div>
@@ -29,13 +29,13 @@ To install **Travel**, follow these steps:
 Linux and macOS:
 
 ```bash
-sudo git clone https://github.com/AhmedAbdAlalim-3A/Travel.git
+sudo git clone https://github.com/ahmed-abd-alalim/Travel.git
 ```
 
 Windows:
 
 ```bash
-git clone https://github.com/AhmedAbdAlalim-3A/Travel.git
+git clone https://github.com/ahmed-abd-alalim/Travel.git
 ```
 
 ## Contact
