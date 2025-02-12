@@ -9,15 +9,6 @@ Travel is a fully responsive Bootstrap-based website template, designed for trav
 </div>
 
 
-## Features
-
-<p>✅ Fully Responsive – Adapts to desktops, tablets, and mobile devices</p>
-<p>✅ Bootstrap 5 – Modern, flexible, and easy-to-customize framework</p>
-<p>✅ Clean & Minimal UI – Elegant and visually appealing design</p>
-<p>✅ Optimized Performance – Fast loading and SEO-friendly structure</p>
-<p>✅ Smooth Animations – Engaging transitions for a dynamic experience</p>
-
-
 ## programming language and tools
 
 <p>
@@ -25,6 +16,15 @@ Travel is a fully responsive Bootstrap-based website template, designed for trav
     <img src="https://skillicons.dev/icons?i=html,css,bootstrap,vscode,ps&perline=7" />
    </a>
 </p>
+
+
+## Features
+
+<p>✅ Fully Responsive – Adapts to desktops, tablets, and mobile devices</p>
+<p>✅ Bootstrap 5 – Modern, flexible, and easy-to-customize framework</p>
+<p>✅ Clean & Minimal UI – Elegant and visually appealing design</p>
+<p>✅ Optimized Performance – Fast loading and SEO-friendly structure</p>
+<p>✅ Smooth Animations – Engaging transitions for a dynamic experience</p>
 
 
 ## Prerequisites
